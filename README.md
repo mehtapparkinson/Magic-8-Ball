@@ -1,4 +1,7 @@
 # Magic-8-Ball
+![IMG_5362](https://github.com/mehtapparkinson/Magic-8-Ball/assets/97293905/211fde2c-687f-42a4-9bcf-cdea3d4fc092)
+
+
 ## Introduction
 Discover answers to your burning questions anytime, anywhere with the Magic-8-Ball app. This fun, easy-to-use app brings the classic magic 8 ball experience to your smartphone. Whether you're seeking guidance, a second opinion, or just a bit of entertainment, Magic-8-Ball is here to help.
 
